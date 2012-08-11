@@ -1,16 +1,16 @@
 {
-	"auto_upgrade_last_run": 1344708504,
-	"installed_packages":
-	[
-		"Backbone.js",
-		"CoffeeScript",
-		"Git",
-		"Markdown Preview",
-		"Package Control",
-		"RSpec (snippets and syntax)",
-		"SCSS",
-		"Shell Turtlestein",
-		"Theme - Soda",
-		"Tomorrow Color Schemes"
-	]
+  "auto_upgrade_last_run": 1344708504,
+  "installed_packages":
+  [
+    "Backbone.js",
+    "CoffeeScript",
+    "Git",
+    "Markdown Preview",
+    "Package Control",
+    "RSpec (snippets and syntax)",
+    "SCSS",
+    "Shell Turtlestein",
+    "Theme - Soda",
+    "Tomorrow Color Schemes"
+  ]
 }
