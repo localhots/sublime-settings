@@ -1,19 +1,19 @@
-// Settings in here override those in "Default/Preferences.sublime-settings", and
-// are overridden in turn by file type specific settings.
 {
-  "theme": "Soda Dark.sublime-theme",
-  "color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
-  "font_face": "Panic Sans",
-  "font_size": 14,
-  "line_padding_top": 1,
-  "line_padding_bottom": 1,
-  "tab_size": 2,
-  "translate_tabs_to_spaces": true,
-  "rulers": [90],
-  "highlight_line": true,
-  "trim_trailing_white_space_on_save": true,
-  "ensure_newline_at_eof_on_save": true,
-  "default_line_ending": "unix",
-  "drag_text": false,
-  "tree_animation_enabled": false
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
+	"default_line_ending": "unix",
+	"fallback_encoding": "Cyrillic (Windows 1251)",
+	"drag_text": false,
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Monaco",
+	"font_size": 14.0,
+	"highlight_line": true,
+	"ignored_packages": ["Vintage"],
+	"line_padding_bottom": 1,
+	"line_padding_top": 3,
+	"rulers": [90],
+	"tab_size": 2,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"tree_animation_enabled": false,
+	"trim_trailing_white_space_on_save": true
 }
